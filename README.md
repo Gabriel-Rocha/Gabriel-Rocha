@@ -5,9 +5,7 @@
 - 🌱 Estudando desenvolvimento Full-Stack
 - 😄 Pronouns: ele/dele
 
-<a href="https://www.twitter.com/pachicodes" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/pachicodes?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+![um gif legal do esquilo da github](https://media3.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif?cid=790b76117ef37ed33363199189e489b479e1187211fe96a0&rid=giphy.gif&ct=g)
 
  <div>
   <a href="https://github.com/Gabriel-Rocha">
