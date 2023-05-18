@@ -5,6 +5,10 @@
 - 🌱 Estudando desenvolvimento Full-Stack
 - 😄 Pronouns: ele/dele
 
+<a href="https://www.twitter.com/pachicodes" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/pachicodes?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
+
  <div>
   <a href="https://github.com/Gabriel-Rocha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Rocha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
