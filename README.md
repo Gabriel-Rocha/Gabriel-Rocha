@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Gabriel Rocha 👋
 
 
-- 🔭 Hoje trabalho com back-end
-- 🌱 Estudando desenvolvimento Full-Stack
+- 🔭 Hoje trabalho como Dev Back-End
+- 🌱 Estudando desenvolvimento Full-Stack e curso uma pós graduação em Data Science - USP
 - 😄 Pronouns: ele/dele
 
 ![um gif legal do esquilo da github](https://media3.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif?cid=790b76117ef37ed33363199189e489b479e1187211fe96a0&rid=giphy.gif&ct=g)
